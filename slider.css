@@ -1,0 +1,10 @@
+[data-slider-container] {
+	display: flex;
+	overflow-x: scroll;
+	position: relative;
+	z-index: 1;
+}
+[data-slider-direction] {
+	position: relative;
+	z-index: 2;
+}
