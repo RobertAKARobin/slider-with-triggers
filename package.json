@@ -1,0 +1,16 @@
+{
+  "name": "slider-with-triggers",
+  "version": "0.0.1",
+  "description": "A simple \"slider\"/carousel.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertAKARobin/slider-with-triggers.git"
+  },
+  "author": "Robin Thomas <contact@robertakarobin.com> (https://robertakarobin.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertAKARobin/slider-with-triggers/issues"
+  },
+  "homepage": "https://github.com/RobertAKARobin/slider-with-triggers"
+}
